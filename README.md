@@ -1,40 +1,33 @@
-# 🏏 IPL 2025 Venue Data Analysis
+# 🏏 IPL 2025 Data Analysis Dashboard
 
 ## 📌 Project Overview
-This project analyzes IPL 2025 venue data to identify performance trends, match patterns, and team outcomes.
+This project analyzes IPL 2025 match data using Microsoft Excel.  
+The dashboard provides insights into match venues, team performance, toss decisions, and total runs scored.
 
-The goal is to extract meaningful insights using structured data analysis techniques.
-
----
-
-## 🎯 Objectives
-- Analyze venue-wise match performance
-- Identify win trends across different stadiums
-- Study team performance patterns
-- Generate actionable insights using data
-
----
+## 📊 Key Insights
+- Match count by venue
+- Team-wise match distribution
+- Toss decision analysis (Bat vs Field)
+- Total and maximum runs scored by venue
+- Interactive pivot tables and charts
 
 ## 🛠 Tools Used
 - Microsoft Excel
-- SQL (for data querying)
-- Data Cleaning Techniques
-- Data Visualization
+- Pivot Tables
+- Pivot Charts
+- Data Cleaning & Formatting
+
+## 📈 Dashboard Features
+- Dynamic charts
+- Clean layout design
+- Summary metrics
+- Easy-to-understand visuals
+
+## 📂 File Included
+- IPL_PROJECT.xlsx – Complete dashboard and analysis
+
+## 🎯 Objective
+To perform exploratory data analysis and create a professional dashboard to visualize IPL match insights.
 
 ---
-
-## 📊 Key Insights
-- Certain venues show higher win probability for chasing teams.
-- Toss decisions influence match outcomes at specific stadiums.
-- Team performance varies significantly across venues.
-
----
-
-## 📂 Project Status
-This project is part of my Data Analytics learning journey and will be continuously improved with advanced insights and visual dashboards.
-
----
-
-## 👩‍💻 Author
-Sanjana Mishra  
-Aspiring Data Analyst
+⭐ If you like this project, feel free to star the repository!
